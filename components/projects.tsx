@@ -26,17 +26,17 @@ const projects = [
   {
     title: "Task Management App",
     description: "A drag-and-drop task management application with user authentication.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/headway.png?height=400&width=600",
     tags: ["Next.js", "TypeScript", "Supabase", "dnd-kit"],
-    liveLink: "#",
+    liveLink: "https://headwaychristianchurch.ca/index.html",
     githubLink: "#",
   },
   {
     title: "Weather Dashboard",
     description: "A weather dashboard that displays current and forecasted weather data.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/shiawase.png?height=400&width=600",
     tags: ["React", "OpenWeather API", "Chart.js"],
-    liveLink: "#",
+    liveLink: "https://shiawaseramen.ca/",
     githubLink: "#",
   },
 ]
